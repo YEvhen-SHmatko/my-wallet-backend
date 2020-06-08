@@ -1,0 +1,33 @@
+{
+  "name": "marketplace-server-goit",
+  "oldName": "food-delivery-server-goit",
+  "version": "1.0.2",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "debug": "node --inspect app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YEvhen-SHmatko/marketplace-server-goit.git"
+  },
+  "author": "Yevhen Shmatko <yevhen.shmatko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YEvhen-SHmatko/marketplace-server-goit/issues"
+  },
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "googleapis": "^49.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.6",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "nodemon": "^1.18.4",
+    "shortid": "^2.2.15"
+  },
+  "homepage": "https://github.com/YEvhen-SHmatko/marketplace-server-goit#readme"
+}
