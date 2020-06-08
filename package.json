@@ -1,7 +1,7 @@
 {
   "name": "marketplace-server-goit",
   "oldName": "food-delivery-server-goit",
-  "version": "1.0.2",
+  "version": "2.0.1",
   "description": "",
   "main": "app.js",
   "scripts": {
